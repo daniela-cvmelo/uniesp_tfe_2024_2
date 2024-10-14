@@ -1,0 +1,5 @@
+página igual ao modelo de aluguel de iates
+
+as páginas que estão no menu precisam existir, mas dentro delas s´precisa ter um h1 com o título (ex: ALuguel de Iates).. 
+
+botões em menus são listas não ordenadas semanticamente. não usar a tag button...

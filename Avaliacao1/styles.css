@@ -1,0 +1,245 @@
+.principal-box {
+    margin-top: 0px;
+    margin-left: 35px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    background-color: white;
+
+}
+
+.external-box {
+    background-color: white;
+}
+
+
+.imgtitulo {
+    margin-left: 20px; 
+    margin-top: 15px; 
+    width: 35px;
+    display: inline-block;
+}
+
+.logo {
+    background-color: rgb(33, 39, 43); 
+    width: 980px;
+}
+
+.sub-logo {
+    display: inline-block;
+
+}
+
+h1 {
+    margin-bottom: 0%; 
+    margin-left: 10px; 
+    font-family: Calibri; 
+    font-weight: lighter; 
+    font-style: italic; 
+    font-size: 22px;
+    color: rgb(27, 180, 232);
+}
+h2 {
+    margin-top: 0%; 
+    margin-left: 10px; 
+    font-family: Calibri; 
+    font-weight: lighter; 
+    font-style: italic; 
+    font-size: 22px;
+    color: white;
+}
+
+.menu-box {
+    display: inline-block; 
+    
+    
+}
+
+#menu-destaque {
+    color: rgb(27, 180, 232);
+    font-family: Calibri;
+    display: inline-block; 
+    margin-left: 130px;
+}
+
+#menu {
+    display: inline-block; 
+    margin-left: 130px;
+    
+}
+
+
+.contato-box-geral { 
+    width: 385px; 
+    background-color: rgb(26, 50, 67); 
+    opacity: 89%;
+    display: inline-block; 
+    margin-left: 30px;
+    position: absolute;
+    bottom: 200px;
+    right: 540px;
+    padding: 20px;
+    text-align: left;
+    
+}
+
+
+.contato-conteudo1 {
+    display: inline-block; 
+    margin-left: 10px;
+}
+
+.contato-conteudo2 {
+    display: inline-block; 
+    margin-left: 10px;
+}
+
+.contato-conteudo3 {
+    display: inline-block;
+    margin-left: 10px; 
+    margin-bottom: 10px;
+}
+
+#contato-destaque {
+    margin-bottom: 0%; 
+    width: 350px; 
+    color: white; 
+    font-family: Calibri; 
+    font-weight: lighter; 
+    font-style: italic; 
+    font-size: 25px; 
+}
+
+#contato-texto {
+    width: 300px;
+    color: white; 
+    font-family: Calibri; 
+    font-weight: lighter; 
+    font-style: italic; 
+    font-size: 18px; 
+
+}
+
+#telefone {
+    color: rgb(198, 176, 127); 
+    font-size: 20px;
+  }
+
+.destinos-top {
+    display: inline-block;
+    background-color: rgb(27, 180, 232); 
+    width: 426px;
+    height: 40px;
+    right: 1020px;
+    margin-top: 20px;
+    position:absolute;
+}
+
+#logo-destinos {
+    display: inline-block;
+    vertical-align: middle;
+
+}
+
+#destinos-titulo {
+    display: inline-block; 
+    color: white;
+    margin-top: 1px;
+    margin-bottom: 1px;
+    vertical-align: middle;
+    font-family: Calibri;
+    font-size: 22px;
+    font-weight: lighter;
+}
+
+.destinos-box {
+    background-color: white;
+    font-family: Calibri;
+}
+
+.destinos-barco {
+    display: inline-block;
+    vertical-align: top;
+}
+
+.nossa-frota-top {
+    display: inline-block;
+    background-color: rgb(198, 176, 127);
+    width: 426px;
+    height: 40px;
+    position: absolute;
+    right: 535px;
+    margin-top: 20px;
+    
+    
+}
+
+#logo-nossa-frota {
+    display: inline-block;
+    vertical-align: middle;
+
+}
+
+#nossa-frota-titulo {
+    display: inline-block;
+    color: white;
+    margin-top: 1px;
+    margin-bottom: 1px;
+    vertical-align: middle;
+    font-family: Calibri;
+    font-size: 22px;
+    font-weight: lighter;
+    
+   
+}
+
+.nossa-frota-box {
+    background-color: white;
+    width: 426px;
+    font-family: Calibri;
+}
+
+.nossa-frota-barco1 {
+    width: 210px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.nossa-frota-barco2 {
+    width: 210px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.nossa-frota-barco3 {
+    width: 210px;
+    display: inline-block;
+}
+
+.nossa-frota-barco4 {
+    width: 210px;
+    display: inline-block;
+}
+
+#menu {
+    display: inline-block;
+    font-family: Calibri;
+    font-size: 15px;
+    font-weight: lighter;
+    text-align: center; 
+    color: white; 
+    margin-left: 13px;
+}
+
+.footer {
+    background-color: #EAEAEA;
+    color: rgb(10, 10, 10);
+    text-align: left;
+    padding: 8px;
+    margin-top: 2px;
+    position: absolute;
+    top: 1080px;
+    display: block;
+    width: 980px;
+    
+        
+}
