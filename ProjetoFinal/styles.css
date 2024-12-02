@@ -1,0 +1,378 @@
+.external-box1 {
+    margin-left: 35px;
+    margin-right: 20px;
+    background-color: white;
+    margin-top: 0px;
+}
+
+.external-box2 {
+    top: -8px;
+    right: 0px;
+    left: 0px;
+    height: 1090px;
+    width: 46px;
+    position: absolute;
+    background-color: rgb(235, 235, 235);
+    display: flex;
+    
+}
+
+.external-box3 {
+    top: 1082px;
+    right: 0px;
+    left: 0px;
+    height: 60px;
+    width: 46px;
+    position: absolute;
+    background-color: #C0C0C0;
+    display: flex;
+  
+}
+
+.external-box4 {
+    top: -8px;
+    right: 0px;
+    left: 1025px;
+    height: 1090px;
+    width: 22px;
+    position: absolute;
+    background-color: rgb(235, 235, 235);
+    display: flex;
+    
+}
+
+.external-box5 {
+    top: 1082px;
+    right: 0px;
+    left: 1025px;
+    height: 60px;
+    width: 22px;
+    position: absolute;
+    background-color: #C0C0C0;
+    display: flex;
+
+}
+
+
+
+.principal-box1 {
+   display: flex;
+   justify-content: space-between;
+   position: relative;
+   margin-top: -8px;
+   height: 580px;
+   width: 1000px;
+   
+
+}
+
+
+h1 {
+    margin-bottom: 0%; 
+    margin-left: 10px; 
+    font-family: Calibri; 
+    font-weight: lighter; 
+    font-style: italic; 
+    font-size: 22px;
+    color: rgb(27, 180, 232);
+}
+h2 {
+    margin-top: 0%; 
+    margin-left: 10px; 
+    font-family: Calibri; 
+    font-weight: lighter; 
+    font-style: italic; 
+    font-size: 22px;
+    color: white;
+}
+
+h3 {
+    font-weight: lighter;   
+    font-family: Calibri;
+    font-style: italic; 
+    font-size: 24px;
+
+
+}
+
+.logo {
+    background-color: rgb(33, 39, 43); 
+    width: 980px;
+    position: absolute;
+    top: 0px;
+
+}
+
+
+.imgtitulo {
+    margin-left: 20px; 
+    margin-top: 15px; 
+    width: 35px;
+    display: inline-block;
+}
+
+
+
+.sub-logo {
+    display: inline-block;
+
+}
+
+.barco-central {
+    width: 100%;
+    bottom: -5px;
+    position: absolute;
+
+
+}
+
+.contato-box-geral { 
+    width: 385px; 
+    background-color: rgb(26, 50, 67); 
+    opacity: 89%;
+    display: inline-block; 
+    margin-left: 30px; 
+    position: absolute;
+    bottom: 70px;
+    right: 60px;
+    padding: 20px;
+    text-align: left; 
+    
+}
+
+.principal-box2 {
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+    margin-top: 3px;
+    height: 455px;
+    width: 1000px;
+    
+ 
+ }
+
+
+.menu-box {
+    display: inline-block; 
+    
+    
+}
+
+#menu-destaque {
+    color: rgb(27, 180, 232);
+    font-family: Calibri;
+    display: inline-block; 
+    margin-left: 130px;
+}
+
+#menu {
+    display: inline-block; 
+    margin-left: 130px;
+    
+}
+
+
+.contato-conteudo1 {
+    display: inline-block; 
+    margin-left: 10px;
+}
+
+.contato-conteudo2 {
+    display: inline-block; 
+    margin-left: 10px;
+}
+
+.contato-conteudo3 {
+    display: inline-block;
+    margin-left: 10px; 
+    margin-bottom: 10px;
+}
+
+#contato-destaque {
+    margin-bottom: 0%; 
+    width: 350px; 
+    color: white; 
+    font-family: Calibri; 
+    font-weight: lighter; 
+    font-style: italic; 
+    font-size: 28px; 
+}
+
+#contato-texto {
+    width: 300px;
+    color: white; 
+    font-family: Calibri; 
+    font-weight: lighter; 
+    font-style: italic; 
+    font-size: 18px; 
+
+}
+
+#telefone {
+    color: rgb(198, 176, 127); 
+    font-size: 20px;
+  }
+
+.destinos-top {
+    display: inline-block;
+    background-color: rgb(27, 180, 232); 
+    width: 430px;
+    height: 45px;
+    right: 530px;
+    margin-top: 20px;
+    position:absolute;
+}
+
+#logo-destinos {
+    display: inline-block;
+    vertical-align: middle;
+    width: 42px;
+    padding-top: 4px;
+    padding-left: 4px;
+
+}
+
+#destinos-titulo {
+    display: inline-block; 
+    color: white;
+    margin-top: 1px;
+    margin-bottom: 1px;
+    vertical-align: middle;
+    font-family: Calibri;
+    font-size: 24px;
+    font-weight: lighter;
+}
+
+.destinos-box {
+    background-color: white;
+    
+}
+
+#destinos-subtitulo {
+    font-family: Calibri; 
+    font-size: 20px;
+    font-style: italic;
+    font-weight: 500;
+
+}
+
+#destinos-texto {
+    font-family: Calibri; 
+    font-size: 14px;
+    font-weight: 200;
+    
+}
+
+
+
+.destinos-barco {
+    display: inline-block;
+    margin-top: -5px;
+    position: absolute;
+
+}
+
+.nossa-frota-top {
+    display: inline-block;
+    background-color: rgb(198, 176, 127);
+    width: 430px;
+    height: 45px;
+    position: absolute;
+    right: 60px;
+    margin-top: 20px;
+    
+    
+}
+
+#logo-nossa-frota {
+    display: inline-block;
+    vertical-align: middle;
+    width: 36px;
+    padding-top: 4px;
+    padding-left: 4px;
+
+}
+
+#nossa-frota-titulo {
+    display: inline-block;
+    color: white;
+    margin-top: 1px;
+    margin-bottom: 1px;
+    vertical-align: middle;
+    font-family: Calibri;
+    font-size: 24px;
+    font-weight: lighter;
+    
+   
+}
+
+#nossa-frota-subtitulo {
+    font-family: Calibri; 
+    font-size: 20px;
+    font-style: italic;
+    font-weight: 500;
+
+}
+
+#nossa-frota-texto {
+    font-family: Calibri; 
+    font-size: 14px;
+    font-weight: 200;
+    
+}
+
+.nossa-frota-box {
+    background-color: white;
+    width: 426px;
+    
+        
+}
+
+.nossa-frota-barcos-box {
+    display: flex;
+    justify-content:space-between;
+    flex-wrap:wrap;
+    gap: 7px;
+   
+}
+
+.nossa-frota-barco1 {
+    display: inline-block;
+        
+}
+
+.nossa-frota-barco2 {
+    display: inline-block;
+    
+}
+
+.nossa-frota-barco3 {
+    display: inline-block;
+}
+
+.nossa-frota-barco4 {
+    display: inline-block;
+}
+
+#menu {
+    display: inline-block;
+    font-family: Calibri;
+    font-size: 15px;
+    font-weight: lighter;
+    text-align: center; 
+    color: white; 
+    margin-left: 13px;
+}
+
+.footer-box {
+    background-color: #EBEBEB;
+    color: rgb(10, 10, 10);
+    text-align: left;
+    padding: 21px;
+    margin-top: 2px;
+    position: absolute;
+    top: 497px;
+    width: 950px;
+    
+        
+}

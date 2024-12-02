@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <style>
+
+
+/* => Flexbox:
+
+O display: flex é uma propriedade do CSS que ativa o "Flexible Box Layout", conhecido como Flexbox. Essa técnica é usada para organizar e distribuir elementos dentro de um contêiner, facilitando o controle de alinhamento e espaço entre eles, especialmente quando o layout precisa ser adaptável a diferentes tamanhos de tela.
+
+Explicação das Propriedades:
+display: flex: define o contêiner como um flex container, ou seja, os elementos filhos desse contêiner se tornam "itens flexíveis" e podem ser organizados de forma mais dinâmica. Ele transforma o layout de blocos tradicional em um layout flexível, onde os itens podem ser distribuídos horizontalmente ou verticalmente, dependendo do flex-direction.
+
+flex-wrap: wrap: permite que os itens flexíveis "quebrem" para uma nova linha ou coluna quando não há espaço suficiente em uma única linha ou coluna.
+
+Quando o valor é wrap, os itens vão para uma nova linha ou coluna (dependendo da direção do flex) quando o espaço na linha atual acaba.
+Sem o flex-wrap: wrap (ou se ele for nowrap, o padrão), os itens flexíveis vão tentar caber em uma única linha/coluna, o que pode fazer com que eles fiquem comprimidos. */
+
+/* => Grid:
+
+Grid CSS é uma técnica de layout bidimensional no CSS. Diferente do Flexbox, que organiza elementos principalmente em uma única dimensão (horizontal ou vertical), o Grid permite organizar elementos em linhas e colunas ao mesmo tempo. Vamos ver cada propriedade em detalhe:
+
+Explicação das Propriedades:
+display: grid: ativa o CSS Grid para o contêiner .grid-container, permitindo que você organize os elementos filhos (chamados de "itens de grid") em um layout de linhas e colunas.
+
+border: 3px solid purple: adiciona uma borda roxa de 3 pixels ao redor do contêiner, facilitando a visualização do limite do contêiner.
+width: 420px e height: 220px: definem as dimensões do contêiner.
+
+align-content: space-between: controla o espaçamento vertical entre as linhas do grid dentro do contêiner.
+Aqui, o space-between faz com que o espaço disponível entre as linhas seja distribuído igualmente.
+
+justify-content: space-between: controla o espaçamento horizontal entre as colunas dentro do contêiner.
+Com space-between, o espaço horizontal é distribuído uniformemente entre as colunas.
+
+grid-template-columns: 203px 203px: define a estrutura das colunas no contêiner.
+Aqui, duas colunas são criadas, cada uma com uma largura de 203 pixels.
+
+grid-template-rows: 105px 105px: define a estrutura das linhas.
+Neste caso, duas linhas são criadas, cada uma com uma altura de 105 pixels.
+*/
+
+
+
+
+
+
+
+
+
+    .flex-container {
+        display: flex;
+        flex-wrap: wrap;
+        border: 3px solid black;
+        width: 420px;
+        height: 230px;
+        align-content: space-between;
+
+        }
+
+
+    .grid-container {
+        display: grid;
+        border: 3px solid purple;
+        width: 420px;
+        height: 220px;
+        align-content: space-between;
+        justify-content: space-between;
+        grid-template-columns: 203px 203px;
+        grid-template-rows: 105px 105px;
+    }
+
+
+
+
+
+    </style>
+
+
+
+
+
+
+</head>
+
+<div class="flex-container">
+    <img src="imagens/barconossafrota1.jpg">
+    <img src="imagens/barconossafrota1.jpg">
+    <img src="imagens/barconossafrota1.jpg">
+    <img src="imagens/barconossafrota1.jpg">
+    
+</div>
+
+<div class="grid-container">
+    <img src="imagens/barconossafrota1.jpg">
+    <img src="imagens/barconossafrota1.jpg">
+    <img src="imagens/barconossafrota1.jpg">
+    <img src="imagens/barconossafrota1.jpg">
+    
+</div>
+
+
+
+
+
+<body>
+    
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>
